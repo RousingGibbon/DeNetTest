@@ -5,10 +5,10 @@ A FastAPI server that interacts with an ERC-20 token on the Polygon (MATIC) bloc
 ## Project Structure
 
 DeNetTest/
-├── server.py # FastAPI server
-├── main.py # TokenBalanceTracker class
-└── abis/
-└── erc20.json # ABI for the ERC-20 token
+server.py # FastAPI server
+main.py # TokenBalanceTracker class
+abis/
+erc20.json # ABI for the ERC-20 token
 
 ## Requirements
 
