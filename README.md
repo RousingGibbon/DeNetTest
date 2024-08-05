@@ -30,6 +30,7 @@ erc20.json # ABI for the ERC-20 token
     python -m venv .venv
     source .venv/bin/activate  # On Windows: .venv\Scripts\activate
     pip install fastapi[standard] web3
+    pip install -r requirements.txt
 
 ## Configuration
 1. Update the main.py file with the following configurations or use mine:
