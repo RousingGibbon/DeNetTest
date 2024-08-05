@@ -22,8 +22,8 @@ erc20.json # ABI for the ERC-20 token
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/RousingGibbon/DeNetTest.git
+   cd DeNetTest
 
 2. Create a virtual environment and install dependencies:
     ```bash
